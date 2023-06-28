@@ -1,4 +1,4 @@
-## Hi , i am WikiMax (alias TheGeekMax)
+## Hi, i am WikiMax (alias TheGeekMax)
 
 i am a french studdent currently in classe preparatoire (a school like university but for crazy people)
 
