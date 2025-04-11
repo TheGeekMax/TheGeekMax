@@ -1,6 +1,6 @@
 ## Hi, i am Maxime Sanciaume
 
-i am a french studdent currently in classe preparatoire (a school like university but for crazy people)
+i am a french studdent currently in Ingeneer school
 
 - 📚 : i like making all kind of small project from personal website to videos games
 - 📗 : my current project is learning how to do java and kotlin based apps, to specialize myself in mobile developpement
